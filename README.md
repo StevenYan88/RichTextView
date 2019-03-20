@@ -1,5 +1,4 @@
-# RichTextView
-干货！！！Android富文本实现图文混排  
+### Android富文本实现图文混排  
 **效果图**  
 
 ![rich.jpg](https://upload-images.jianshu.io/upload_images/1472453-1fde10e9f96fc215.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
