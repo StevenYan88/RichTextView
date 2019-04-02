@@ -1,7 +1,7 @@
 ### Android富文本实现图文混排  
 **效果图**  
 
-<img src="https://upload-images.jianshu.io/upload_images/1472453-1fde10e9f96fc215.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="260" height="500" >
+<img src="https://upload-images.jianshu.io/upload_images/1472453-1fde10e9f96fc215.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="300" height="500" >
 
 像图中的效果，大家在开发并不少见，大家可能不知道android提供了实现图文混排的类。大家或许会写一个布局或者使用drawableLeft这个属性实现文本的左侧图标。
 
